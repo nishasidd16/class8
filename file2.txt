@@ -1,4 +1,5 @@
 file2data
 pull test
 fetch test
+fetch test2
 
